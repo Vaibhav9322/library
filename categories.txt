@@ -1,0 +1,5 @@
+1|Fiction|General fiction books and novels
+2|Science Fiction|Science fiction and fantasy books
+3|History|Historical books and biographies
+4|Technology|Computer science and technology books
+5|Romance|Romance novels and stories
